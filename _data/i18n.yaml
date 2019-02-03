@@ -20,3 +20,14 @@ es:
         generate-invite: Crear invitación
         copy-invite: Copiar invitación
         send-email: Enviar correo
+ca:
+    label:
+        name: Estic pensant en
+        reason: Per què? Imagina't que eixa persona està davant!
+    placeholder:
+        name: Nom
+        reason: Perquè tú ...
+    button:
+        generate-invite: Crear invitació
+        copy-invite: Copiar invitació
+        send-email: Enviar correu

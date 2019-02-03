@@ -1,17 +1,18 @@
 Hi [name],
 
-The 179th edition of the Groundhog Day Event will take place next 2nd of February. Last year ...
+#VLCTechFest2019 will take place on the 3rd of May at Las Naves Innovation Center in Valencia. The festival of the technological communities of the Valencian Community! It will be an awesome day to meet the communities. I'm sure we don't know most of them and we can join some of them. Or maybe we meet people to create another community, who knows!
 
-They are looking for talks about these subjects: ...
+They are looking for sessions or talks directed at a technical audience, without requiring detailed prior knowledge of the technology or specific tool in question. Only 30 minutes! And then there are until 15 minutes for Q&A and other 15 minutes to move to another track. If you don't know to answer a question, don't worry, ask audience for help. If nobody knows the answer, ask for contact details and you can investigate it together afterwards. 
+It's about sharing!
 
-They don't make their speakers pay, but they reimburse travel and share their profits with them!
+Furthermore, the event includes a code of conduct, to ensure the event goes off without incident and that everybody is welcome.
 
 [name], I think you could submit a proposal for this event. [reason]
 
 The event organization provides help to prepare the talk, but I'm here as well for giving you feedback. It's a great opportunity, [name]! Preparing a talk provides awesome reflection moments and it's useful to learn more and more. Attendees will ask you questions which will provide you other perspectives. Don't miss this opportunity, [name]!
 
-C4P link: http://www.wikicfp.com/cfp/
+You can submit your proposal in this link (C4P): https://goo.gl/forms/Xa2ikyc8Gt9bxsRt1
 
-And you have time until the 30th of November. Let me know if I can help you!
+And you have time until the 3th of March. Let me know if I can help you!
 
-There are more info about the event here: https://en.wikipedia.org/wiki/Groundhog_Day
+There are more info about the event here: https://vlctechfest.org/es/
